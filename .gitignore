@@ -1,0 +1,31 @@
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+*.yaml
+*.s3db
+
+Problems/
+Advanced system/
+Card anatomy/
+I'm so lite/
+Luhn algorithm/
+
